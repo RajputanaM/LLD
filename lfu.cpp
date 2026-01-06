@@ -2,52 +2,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// enum vehicleType{
-//   BIKE,  CAR, TRUCK
-// };
-// class Vehicle{
-//   int vehicleNumber;
-//   vehicleType type;
-
-//   Vehicle(int number, vehicleType vType){
-//     this.vehicleNumber = number;
-//     this.type = vType;
-//   }
-// };
-
-// class Slot{
-//   int slotNumber;
-//   vehicleType type;
-//   bool isOccupied;
-
-//   Slot(int number, vehicleType vType){
-//     this.slotNumber = number;
-//     this.type = vType;
-//     this.isOccupied = false;
-//   }
-// };
-
-// class ParkingLot{
-
-//     int totalFloor;
-//     int floorcapacity;
-//     Slot slots;
-//     vector<vector<Slot>> floors;
-
-//     ParkingLot{int floorcapacity, Slot slots,int totalFloor, vector<vector<Slot>> floors}{
-//         this->capacity = capacity;
-//         this->totalFloor = totalFloor;
-//         floors.assign(totalFloor, vector<int>(floorcapacity));
-//     }
-// }
-
-// class ResouceAllocatorService
-// {
-
-// }
-
-
-
 
 struct Node{
     int key;
